@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$/../../../../Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$/../../../../Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_DotNetDesignPatterns.1672617535.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="AbstractFactory" t="Include">
+        <e p="AbstractFactoryTest.cs" t="Include" />
+        <e p="Application.cs" t="Include" />
+        <e p="IButton.cs" t="Include" />
+        <e p="IGUIFactory.cs" t="Include" />
+        <e p="OSXButton.cs" t="Include" />
+        <e p="OSXFactory.cs" t="Include" />
+        <e p="WinButton.cs" t="Include" />
+        <e p="WinFactory.cs" t="Include" />
+      </e>
+      <e p="Adapter" t="Include">
+        <e p="AdapterTest.cs" t="Include" />
+        <e p="Consultant.cs" t="Include" />
+        <e p="ConsultantToEmployeeAdapter.cs" t="Include" />
+        <e p="Employee.cs" t="Include" />
+        <e p="IEmployee.cs" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Bridge" t="Include">
+        <e p="BridgeTest.cs" t="Include" />
+        <e p="CircleShape.cs" t="Include" />
+        <e p="DrawingAPI1.cs" t="Include" />
+        <e p="DrawingAPI2.cs" t="Include" />
+        <e p="IDrawingAPI.cs" t="Include" />
+        <e p="Shape.cs" t="Include" />
+      </e>
+      <e p="Command" t="Include">
+        <e p="CommandTest.cs" t="Include" />
+        <e p="FlipDownCommand.cs" t="Include" />
+        <e p="FlipUpCommand.cs" t="Include" />
+        <e p="ICommand.cs" t="Include" />
+        <e p="Light.cs" t="Include" />
+        <e p="Switch.cs" t="Include" />
+      </e>
+      <e p="Composite" t="Include">
+        <e p="CompositeGraphic.cs" t="Include" />
+        <e p="CompositeTest.cs" t="Include" />
+        <e p="Ellipse.cs" t="Include" />
+        <e p="Graphic.cs" t="Include" />
+      </e>
+      <e p="Decorator" t="Include">
+        <e p="DecoratorTest.cs" t="Include" />
+        <e p="HorizontalScrollBarDecorator.cs" t="Include" />
+        <e p="IWindow.cs" t="Include" />
+        <e p="SimpleWindow.cs" t="Include" />
+        <e p="VerticalScrollBarDecorator.cs" t="Include" />
+        <e p="WindowDecorator.cs" t="Include" />
+      </e>
+      <e p="DotNetDesignPatterns.csproj" t="IncludeRecursive" />
+      <e p="Facade" t="Include">
+        <e p="Computer.cs" t="Include" />
+        <e p="CPU.cs" t="Include" />
+        <e p="FacadeTest.cs" t="Include" />
+        <e p="HardDrive.cs" t="Include" />
+        <e p="Memory.cs" t="Include" />
+      </e>
+      <e p="Iterator" t="Include">
+        <e p="IteratorTest.cs" t="Include" />
+      </e>
+      <e p="Memento" t="Include">
+        <e p="Memento.cs" t="Include" />
+        <e p="MementoTest.cs" t="Include" />
+        <e p="Originator.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="DotNetDesignPatterns.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Observer" t="Include">
+        <e p="ConcreteObserver.cs" t="Include" />
+        <e p="IObserver.cs" t="Include" />
+        <e p="Observable.cs" t="Include" />
+        <e p="ObserverTest.cs" t="Include" />
+        <e p="Subject.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Proxy" t="Include">
+        <e p="IImage.cs" t="Include" />
+        <e p="ProxyImage.cs" t="Include" />
+        <e p="ProxyTest.cs" t="Include" />
+        <e p="RealImage.cs" t="Include" />
+      </e>
+      <e p="Singleton" t="Include">
+        <e p="Singleton.cs" t="Include" />
+        <e p="SingletonTest.cs" t="Include" />
+      </e>
+      <e p="Strategy" t="Include">
+        <e p="Add.cs" t="Include" />
+        <e p="Context.cs" t="Include" />
+        <e p="IStrategy.cs" t="Include" />
+        <e p="Multiply.cs" t="Include" />
+        <e p="StrategyTest.cs" t="Include" />
+        <e p="Subtract.cs" t="Include" />
+      </e>
+      <e p="Visitor" t="Include">
+        <e p="Body.cs" t="Include" />
+        <e p="Car.cs" t="Include" />
+        <e p="CarElementDoVisitor.cs" t="Include" />
+        <e p="CarElementPrintVisitor.cs" t="Include" />
+        <e p="Engine.cs" t="Include" />
+        <e p="ICarElement.cs" t="Include" />
+        <e p="ICarElementVisitor.cs" t="Include" />
+        <e p="VisitorTest.cs" t="Include" />
+        <e p="Wheel.cs" t="Include" />
+      </e>
+    </e>
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+  </component>
+</project>
